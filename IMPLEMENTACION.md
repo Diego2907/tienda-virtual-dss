@@ -157,7 +157,7 @@ npm test
 
 ### Cypress E2E en local
 
-Primero levanta backend y frontend:
+Primero levanta backend y frontend :D
 
 ```bash
 cd backend
